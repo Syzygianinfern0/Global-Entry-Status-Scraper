@@ -15,5 +15,6 @@ python goes.py --arn <application_number>
 2024-MM-DD: Sent To Go
 2024-MM-DD: Background Verification Form for GEP Submitted
 ```
+4. (optional) You can run the script in a loop to monitor the status of your application. I personally have a telegram bot that pings me when the status changes.
 
 Reference: https://www.reddit.com/r/GlobalEntry/comments/1ci37e7/steps_to_check_the_current_detailed_status_for/
